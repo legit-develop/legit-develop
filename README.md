@@ -1,21 +1,25 @@
-<!--
-### Hi there 👋
+### Hi there 👋, my name is Sifiso Dhlamini
+#### aka Legit Developer
+![aka Legit Developer](https://pbs.twimg.com/profile_banners/1285629454438596616/1660832779/1080x360)
 
-**legit-develop/legit-develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Chemical Engineer turned Web Developer and Data Analyst
 
-Here are some ideas to get you started:
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src='https://img.shields.io/badge/-css-0098ff?logo=css3&logoColor=fff' > <img src='https://img.shields.io/badge/-html-0098ff?logo=html5&logoColor=fff'> <img src='https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=fff'> <img src='https://img.shields.io/badge/-git-181717?logo=Git&logoColor=fff'> <img src='https://img.shields.io/badge/-github-181717?logo=GitHub&logoColor=fff'>
+- 🔭 I’m currently working on sales and production output tracker 
+- 🌱 I’m currently learning React 
+- 👯 I’m looking to collaborate on Web Application and Data Science project 
+- 🤔 I’m looking for help with DevOps 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legit-develop&count_private=true&show_icons=true&theme=cobalt)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LEGIT-DEVELOP&show_icons=true&theme=radical)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/legit-develop)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@legitdeveloper)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=legit-develop)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=legit-develop&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=legit-develop)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=legit-develop)  
+
+![Profile views](https://gpvc.arturio.dev/legit-develop)  
