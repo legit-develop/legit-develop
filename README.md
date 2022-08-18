@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src='https://img.shields.io/badge/-css-0098ff?logo=css3&logoColor=fff' > <img src='https://img.shields.io/badge/-html-0098ff?logo=html5&logoColor=fff'> <img src='https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=fff'>
+<img src='https://img.shields.io/badge/-css-0098ff?logo=css3&logoColor=fff' > <img src='https://img.shields.io/badge/-html-0098ff?logo=html5&logoColor=fff'> <img src='https://img.shields.io/badge/-JavaScript-f7df1e?logo=JavaScript&logoColor=fff'> <img src='https://img.shields.io/badge/-git-181717?logo=Git&logoColor=fff'> <img src='https://img.shields.io/badge/-github-181717?logo=GitHub&logoColor=fff'>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=legit-develop&count_private=true&show_icons=true&theme=cobalt)
 
