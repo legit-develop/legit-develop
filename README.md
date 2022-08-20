@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sifiso Dhlamini
 #### aka Legit Developer
-![aka Legit Developer](https://pbs.twimg.com/profile_banners/1285629454438596616/1660832779/1080x360)
+![aka Legit Developer](https://pbs.twimg.com/profile_banners/1285629454438596616/1660990236/1080x360)
 
 I'm a Chemical Engineer turned Web Developer and Data Analyst
 
